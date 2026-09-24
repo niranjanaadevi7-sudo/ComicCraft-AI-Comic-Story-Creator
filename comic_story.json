@@ -1,0 +1,34 @@
+{
+  "panels": [
+    {
+      "panel_number": 1,
+      "narration": "Behind the dusty science building, Maya uncovers an unusual artifact.",
+      "dialogue": "Maya: What on earth is this little guy doing out here?",
+      "caption": "The Campus Treasure"
+    },
+    {
+      "panel_number": 2,
+      "narration": "Suddenly, gears grind and the brass relic springs to life.",
+      "dialogue": "Robot: Scanning future... Behold your destiny.",
+      "caption": "The Prophecy"
+    },
+    {
+      "panel_number": 3,
+      "narration": "Right before her eyes, the hologram's vision becomes reality.",
+      "dialogue": "Maya: It actually happened! This isn't just a toy...",
+      "caption": "Instant Realization"
+    },
+    {
+      "panel_number": 4,
+      "narration": "A brilliant spark of inspiration hits her all at once.",
+      "dialogue": "Maya: With your help, we are going to win the grand prize.",
+      "caption": "The Big Plan"
+    },
+    {
+      "panel_number": 5,
+      "narration": "Armed with tomorrow's secrets, their greatest adventure begins.",
+      "dialogue": "Maya: Let's go make some history, buddy.",
+      "caption": "Let's Make History"
+    }
+  ]
+}

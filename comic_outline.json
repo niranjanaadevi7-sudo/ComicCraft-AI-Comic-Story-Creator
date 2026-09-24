@@ -1,0 +1,34 @@
+{
+  "panels": [
+    {
+      "panel_number": 1,
+      "title": "The Dusty Discovery",
+      "scene_description": "In the dimly lit basement of the college library, Maya, a curious 19-year-old student with messy brown hair, round glasses, and a green hoodie, pulls aside a stack of old textbooks to reveal a quirky, dusty retro-futuristic robot sitting on a shelf.",
+      "image_prompt": "A colorful modern comic book style panel of Maya, a 19-year-old college student with messy brown hair, round glasses, and a green hoodie, crouched in a dusty college library basement, discovering a small quirky retro-futuristic robot hidden on a shelf. Bright comic art, bold outlines, vibrant colors."
+    },
+    {
+      "panel_number": 2,
+      "title": "The First Prophecy",
+      "scene_description": "Maya wipes the dust off the robot, and it suddenly boots up. Its screen glows a bright neon blue, displaying the text: 'WARNING: IMMEDIATE SLIP HAZARD OUTSIDE.' Maya raises an eyebrow, looking highly skeptical.",
+      "image_prompt": "A colorful modern comic book style panel. Maya looks curiously at the small retro-futuristic robot in her hands. The robot's screen is glowing neon blue with the words 'WARNING: SLIP HAZARD' in bold digital font. Maya has a skeptical expression. Vibrant colors."
+    },
+    {
+      "panel_number": 3,
+      "title": "The Banana Slip",
+      "scene_description": "Maya looks out the nearby library window. Right on cue, a muscular college athlete wearing a varsity jacket slips comically on a bright yellow banana peel on the sidewalk, his limbs flailing in the air. Maya's eyes go wide with shock and excitement.",
+      "image_prompt": "A colorful modern comic book style panel. Through a glass library window, a college athlete in a varsity jacket slips comically on a yellow banana peel, limbs flailing. Inside, Maya watches with wide, shocked eyes, holding the small glowing robot. Dynamic action lines, humorous art style."
+    },
+    {
+      "panel_number": 4,
+      "title": "The Next Big Prediction",
+      "scene_description": "Excited by the robot's power, Maya eagerly asks it for tomorrow's future. The robot's screen flashes a chaotic red warning message: 'TOMORROW: SENTIENT SPAGHETTI REBELLION IN THE CAFETERIA.' Maya looks half-terrified, half-thrilled.",
+      "image_prompt": "A colorful modern comic book style panel. Maya is leaning close to the robot, asking it a question with a grin. The robot's screen glows red with a pixelated graphic of a giant spaghetti monster and the text 'SPAGHETTI REBELLION'. Fun, humorous cartoon details."
+    },
+    {
+      "panel_number": 5,
+      "title": "Ready for Action",
+      "scene_description": "Maya stands heroically on the campus lawn, wearing a silver colander on her head as a helmet and wielding a giant plastic serving fork. The little robot is perched proudly on her shoulder. They are ready to face the pasta apocalypse.",
+      "image_prompt": "A colorful modern comic book style panel. Maya stands heroically on the college campus lawn, wearing a silver metal colander as a helmet and holding a giant plastic fork. The small, quirky robot is perched on her shoulder. They both look determinedly into the distance. Vibrant, funny, adventurous tone."
+    }
+  ]
+}
